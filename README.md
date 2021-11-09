@@ -1,7 +1,7 @@
 # REACT-LESSONS-INSTRUCTOR-ANDRES-R.-BUCHELI
 
 ## Take a look to the live example at:
-https://bucheli-web-development-react-course-passing-event-as-props.netlify.app/
+https://bucheli-web-development-react-course-receiving-handlers.netlify.app/
 
 ## Usage:
 * Rendering all the page from an main component (Talker.js).
